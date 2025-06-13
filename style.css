@@ -1,0 +1,16 @@
+body{
+    background-color: #000000;
+    color: #ff0d1d;
+}
+.container{
+    background-color: black;
+    width: 270px;
+    border: 5px solid red;
+}
+.ascii-banner {
+    color: #ff0d1d;
+    font-size: .4em;
+    font-family: monospace;
+    white-space: pre;
+    font-weight: bold;
+}
